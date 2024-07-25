@@ -19,7 +19,7 @@ BitOMC is not premined. Users can mint Tighten and Ease once per block according
 ## Resources
 - [BitOMC whitepaper](bitomc.pdf)
 - [BitOMC Telegram group](https://t.me/bitOMC_chat)
-- [BitOMC docs](https://github.com/BitVM/BitVM/tree/1dce989d1963b90c35391b77b451c6823302d503/bitvm/docs)
+- [BitOMC docs](https://github.com/BitOMC/BitOMC/blob/master/docs/src/SUMMARY.md)
 - [BitOMC organization on Github](https://github.com/BitOMC)
 
 ### Want to Contribute?

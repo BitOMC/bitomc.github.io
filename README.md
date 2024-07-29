@@ -1,8 +1,8 @@
 # BitOMC - Bringing Price Stability to the Bitcoin Economy
 
-<em>Minting begins on block 854,500 (est. Monday 7/29/24)</em>
+<em>Minting begins on block 855,000 (est. Thursday 8/1/24)</em>
 
-BitOMC is a metaprotocol that defines a more stable unit of account for Bitcoin payments.
+BitOMC is an experimental metaprotocol that defines a more stable unit of account for Bitcoin-settled contracts.
 
 ## Intro
 In a world with ever-changing economic conditions, Bitcoin's fixed supply makes it unattractive as a unit of account in contracts where payment is due in the future. BitOMC addresses this by defining a market-driven unit of account that can facilitate price stability in a Bitcoin economy, without changing Bitcoin's core protocol. Using two interconvertible assets, Tighten and Ease, BitOMC establishes a dynamic interest rate and a new unit of Bitcoin called the "util". This system allows for more predictable Bitcoin-settled payments, potentially accelerating Bitcoin's adoption in commerce while preserving its fundamental properties as a store of value.

@@ -1,6 +1,6 @@
 # BitOMC - Adaptive Pricing for Bitcoin Payments
 
-_**Disclaimer:** This project has been archived. Do not USE. It reflects my exploration and journey to understand all facets of Bitcoin. At the time of this project's creation, I struggled to understand how Bitcoin could become a viable unit of account, because I assumed that a risk-off asset will always rise in value relative to all other assets during times of crisis. This assumption, however, does not hold if Bitcoin is valued by a generally agreed upon social contract at 50% of the world's wealth (the maximum possible extent). As a result, I no longer think Bitcoin needs additional monetary features in order to be a viable unit of account in equilibrium._
+_**Disclaimer:** This project has been archived. DO NOT USE. It reflects my exploration and journey to understand all facets of Bitcoin. At the time of this project's creation, I struggled to understand how Bitcoin could become a viable unit of account, because I assumed that a risk-off asset will always rise in value relative to all other assets during times of crisis. This assumption, however, does not hold if Bitcoin is valued by a generally agreed upon social contract at 50% of the world's wealth (the maximum possible extent). As a result, I no longer think Bitcoin needs additional monetary features in order to be a viable unit of account in equilibrium._
 
 BitOMC is an experimental metaprotocol that defines an adaptive unit of account for Bitcoin-settled payments.
 
